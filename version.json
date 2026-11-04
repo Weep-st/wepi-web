@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "build": "2026-08-11_18:10",
-  "reason": "Push FCM update texts retry"
+  "version": "1.1.5",
+  "build": "2026-11-04_auto_deploy_test",
+  "reason": "Verificacion de sincronizacion automatica repo privado -> repo publico wepi-web"
 }
