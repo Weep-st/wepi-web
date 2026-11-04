@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-aj1Yyrsg.js","assets/dist-Da-07osN.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper-CREtouNF.js";import{c as t}from"./dist-Da-07osN.js";var n=t(`FCM`,{web:()=>e(()=>import(`./web-aj1Yyrsg.js`).then(e=>new e.FCMWeb),__vite__mapDeps([0,1]))});export{n as FCM};

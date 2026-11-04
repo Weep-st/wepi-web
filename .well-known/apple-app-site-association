@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JHVX9U858F.com.wepi.app",
+        "paths": [
+          "/app",
+          "/descargar",
+          "/pedir",
+          "/pedir/*",
+          "/mis-pedidos",
+          "/mis-pedidos/*"
+        ]
+      },
+      {
+        "appID": "JHVX9U858F.com.wepi.logistic",
+        "paths": [
+          "/repartidores",
+          "/repartidores/*"
+        ]
+      }
+    ]
+  }
+}
