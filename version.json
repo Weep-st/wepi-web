@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "build": "2026-11-04_auto_deploy_test",
-  "reason": "Verificacion de sincronizacion automatica repo privado -> repo publico wepi-web"
+  "version": "1.2.3",
+  "build": "2026-11-06_fix_locales",
+  "reason": "Fix forcedUpdate scope and hard refresh Service Worker"
 }
