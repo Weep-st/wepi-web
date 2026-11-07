@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
-  "build": "2026-11-07_mobile_comercios",
-  "reason": "Adaptacion de estilos moviles para Wepi Comercios app manteniendo escritorio"
+  "version": "1.2.5",
+  "build": "2026-11-07_states_and_printing_mobile",
+  "reason": "Visible active states on mobile and desktop-only printing restriction"
 }
