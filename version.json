@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
-  "build": "2026-11-07_states_and_printing_mobile",
-  "reason": "Visible active states on mobile and desktop-only printing restriction"
+  "version": "1.2.6",
+  "build": "2026-11-07_settings_tabs_removal_and_enlace_fix",
+  "reason": "Remove horizontal settings tabs and fix mobile shareable link overflow"
 }
