@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "build": "2026-11-06_fix_locales",
-  "reason": "Fix forcedUpdate scope and hard refresh Service Worker"
+  "version": "1.2.4",
+  "build": "2026-11-07_mobile_comercios",
+  "reason": "Adaptacion de estilos moviles para Wepi Comercios app manteniendo escritorio"
 }
