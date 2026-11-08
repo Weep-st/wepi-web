@@ -1,0 +1,1 @@
+import{o as e}from"./dist-Da-07osN.js";var t=class extends e{async show(e){}async hide(e){}};export{t as SplashScreenWeb};

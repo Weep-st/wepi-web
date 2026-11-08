@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
-  "build": "2026-11-07_settings_tabs_removal_and_enlace_fix",
-  "reason": "Remove horizontal settings tabs and fix mobile shareable link overflow"
+  "version": "1.2.7",
+  "build": "2026-11-08_desktop_cleanup_fast_startup_compact_cards",
+  "reason": "Fix desktop duplicates, make mobile order cards compact, eliminate startup freeze, remove sample order"
 }
